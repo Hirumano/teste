@@ -1,0 +1,96 @@
+{
+  "KINGMAKER": {
+    "ZONES": {
+      "NA": "None",
+      "BV": "Brevoy",
+      "RL": "Rostland Hinterlands",
+      "GB": "Greenbelt",
+      "TW": "Tuskwater",
+      "KL": "Kamelands",
+      "NM": "Narlmarches",
+      "SH": "Sellen Hills",
+      "DS": "Dunsward",
+      "NH": "Nomen Heights",
+      "LV": "Tors of Levenies",
+      "HT": "Hooktongue",
+      "DR": "Drelev",
+      "TL": "Tiger Lords",
+      "RU": "Rushlight",
+      "GL": "Glenebon Lowlands",
+      "PX": "Pitax",
+      "GU": "Glenebon Uplands",
+      "NU": "Numeria",
+      "TV": "Thousand Voices",
+      "BR": "Branthlend"
+    },
+    "TERRAIN": {
+      "PLAINS": "Plains",
+      "FOREST": "Forest",
+      "HILLS": "Hills",
+      "MOUNTAINS": "Mountains",
+      "WETLANDS": "Wetlands",
+      "SWAMP": "Swamp",
+      "LAKE": "Lake"
+    },
+    "TRAVEL": {
+      "OPEN": "Open Terrain",
+      "DIFFICULT": "Difficult Terrain",
+      "GREATER": "Greater Difficult Terrain",
+      "WATER": "Water",
+      "IMPASSABLE": "Impassable"
+    },
+    "DISCOVERY": {
+      "LANDMARK": "Landmark",
+      "STANDARD": "Standard",
+      "SECRET": "Secret"
+    },
+    "EXPLORATION_STATES": {
+      "NONE": "None",
+      "RECON": "Reconnoitered",
+      "MAP": "Mapped"
+    },
+    "FEATURES": {
+      "LANDMARK": "Landmark",
+      "REFUGE": "Refuge",
+      "RUIN": "Ruin",
+      "STRUCTURE": "Structure",
+      "BRIDGE": "Bridge",
+      "FORD": "Ford",
+      "WATERFALL": "Waterfall",
+      "HAZARD": "Hazard",
+      "FARMLAND": "Farmland",
+      "FREEHOLD": "Freehold",
+      "VILLAGE": "Village",
+      "TOWN": "Town",
+      "CITY": "City",
+      "METROPOLIS": "Metropolis"
+    },
+    "COMMODITIES": {
+      "NONE": "None",
+      "FOOD": "Food",
+      "ORE": "Ore",
+      "LUMBER": "Lumber",
+      "LUXURIES": "Luxuries",
+      "STONE": "Stone"
+    },
+    "CAMPS": {
+      "QUARRY": "Quarry",
+      "MINE": "Mine",
+      "LUMBER": "Lumber Camp"
+    },
+    "ToggleHexTool": "Toggle Hex Controls",
+    "TOOLTIP": {
+      "HEX": "Hex",
+      "FEATURE": "Feature",
+      "TRAVEL": "Travel",
+      "LEVEL": "Level",
+      "DISCOVERED": "Discovered"
+    },
+    "IMPORTER": {
+      "ResetState": "Reset Game State",
+      "ActivateScene": "Activate Initial Scene",
+      "DisplayJournal": "Display Introduction Journal Entry",
+      "CustomizeWorld": "Customize World Details"
+    }
+  }
+}
